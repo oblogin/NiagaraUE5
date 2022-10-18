@@ -1,5 +1,7 @@
-# Visual Studio 2015 user specific files
+﻿# Visual Studio 2015 user specific files
 .vs/
+
+.idea/
 
 # Compiled Object files
 *.slo
@@ -40,6 +42,8 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+
+Plugins/*/RiderLink/*
 
 # Precompiled Assets
 SourceArt/**/*.png
